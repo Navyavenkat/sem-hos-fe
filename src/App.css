@@ -8,7 +8,7 @@
   display: flex;
   justify-content: center;
   margin-bottom: 20px;
-  background-color:  rgb(59, 62, 67);
+  background-color:  rgb(183, 208, 252);
   ;
 }
 
@@ -22,18 +22,16 @@
 
 .nav-menu a:hover {
   background-color: #5effbc;
-  color:#000
+  color:#f1eaea
 }
 
-
-/* Works for Chrome, Safari, Edge, Opera */
 input::-webkit-outer-spin-button,
 input::-webkit-inner-spin-button {
   -webkit-appearance: none;
   margin: 0;
 }
 
-/* Works for Firefox */
+
 input[type="number"] {
   -moz-appearance: textfield;
 }
